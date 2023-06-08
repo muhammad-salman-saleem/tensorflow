@@ -23,11 +23,10 @@ Before running this project, make sure you have the following packages installed
 
 Use the package manager [npm](https://www.npmjs.com/) to install the necessary packages:
 
-```bash
-npm install
-
 Usage
 To start the application, run the following command:
+```bash
+npm install
 npm start
 ```
 This will launch the app and display the different components.
